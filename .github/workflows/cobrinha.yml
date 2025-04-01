@@ -21,6 +21,15 @@ jobs:
           github_user_name: andersonmdsantos
           outputs: dist/github-contribution-grid-snake.svg
 
+      - name: Criar a branch output se não existir
+        run: |
+          git fetch
+          if ! git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout --orphan output
+            git commit --allow-empty -m "Criando branch output"
+            git push origin output
+          fi
+
       - name: Publicar a animação
         uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
