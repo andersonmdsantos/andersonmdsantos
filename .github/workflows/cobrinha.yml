@@ -10,7 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+
+      - name: Criar diretório dist
+        run: mkdir -p dist
 
       - name: Gerar a animação da cobrinha
         uses: Platane/snk@master
