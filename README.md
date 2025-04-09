@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou trabalhando com eletrônica de potência.
 - 🌱 Atualmente estou cursando pós em software e aprendendo Python.
-- 😄 Pronomes: Ele/dele
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmdsantos)](https://github.com/andersonmdsantos/github-readme-stats)-->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonmdsantos&show_icons=true&theme=tokyonight)-->
