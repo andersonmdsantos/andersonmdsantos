@@ -12,11 +12,14 @@
     srcset="https://github-readme-stats.vercel.app/api?username=andersonmdsantos&show_icons=true&theme=tokyonight&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
+  <!--
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=andersonmdsantos&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=andersonmdsantos&show_icons=true" />  
+  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonmdsantos&show_icons=true&theme=tokyonight&locale=pt-br" />
 </picture>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmdsantos&layout=compact&locale=pt-br)-->
